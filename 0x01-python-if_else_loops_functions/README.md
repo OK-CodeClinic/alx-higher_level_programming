@@ -1,4 +1,4 @@
-# Python - Hello, World
+# Python - if/else loop function
 
 #### This project gives a general knowledge about:
 1. Control Flow
