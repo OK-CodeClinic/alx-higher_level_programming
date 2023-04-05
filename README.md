@@ -8,3 +8,8 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 - 0x02. Python - import & modules
 - 0x03. Python - Data Structures: Lists, Tuples
 - 0x04. Python - More Data Structures: Set, Dictionary
+- 0x05. Python - Exceptions
+- 0x06. Python - Classes
+- 0x07. Python - Test driven development
+- 0x08. Python - More classes
+- 0x09. Python - Everything is object
