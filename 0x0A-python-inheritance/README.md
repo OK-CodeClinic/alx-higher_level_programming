@@ -18,7 +18,7 @@
 ## Author
 
 - [Kehinde Omokungbe](https://www.github.com/OK-CodeClinic)
-## Rewuirements
+## Requirements
 ### Python requirements
 - Allowed editors: vi, vim, emacs
 - All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.8.5)
@@ -119,4 +119,4 @@
 * **13. Can I?**
   * [101-add_attribute.py](./101-add_attribute.py): Python function that adds a new attribute to an object if possible.
   * If an attribute cannot be added, a `TypeError` exception is raised with the message `can't add new attribute`.
-![Logo](https://i0.wp.com/aceworldpub.com.ng/wp-content/uploads/2022/03/unnamed.png?resize=880%2C528&ssl=1)
+g[Logo](https://i0.wp.com/aceworldpub.com.ng/wp-content/uploads/2022/03/unnamed.png?resize=880%2C528&ssl=1)
