@@ -159,4 +159,3 @@ $
 
 All projects are being taught by ALX. All thanks to ALX Africa
 ![Logo](https://i0.wp.com/aceworldpub.com.ng/wp-content/uploads/2022/03/unnamed.png?resize=880%2C528&ssl=1)
-![Logo](https://imgur.com/scS4tTj)
