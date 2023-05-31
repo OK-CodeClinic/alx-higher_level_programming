@@ -13,3 +13,8 @@ Simultaneously, I continued to reinforce and expand my skills in C and shell scr
 - 0x07. Python - Test driven development
 - 0x08. Python - More classes
 - 0x09. Python - Everything is object
+- 0x0A. Python - Inheritance
+- 0x0B. Python - Input/Output
+- 0x0C. Python - Almost a circle
+- 0x0D. SQL - Introduction
+- 0x0E. SQL - More Queries
